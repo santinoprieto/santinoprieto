@@ -2,13 +2,10 @@
 
 # 👋 Hola, soy Santino Prieto
 
-### 🎓 Estudiante de Ingeniería en Informática | 💻 Python | 🔧 Git | 🎨 Figma
+### 🎓 Estudiante de Ingeniería en Informática
 
 <p>
-  <a href="https://github.com/santinoprieto">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="TU_LINKEDIN">
+  <a href="https://linkedin.com/in/santinoprieto">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:santino2007prieto@gmail.com">
@@ -49,7 +46,6 @@
 - 🧠 Resolución de problemas y pensamiento algorítmico
 - 🔧 Control de versiones con Git
 - 💻 Desarrollo de software
-- 📊 Fundamentos de Sistemas de Información
 
 ---
 
@@ -79,16 +75,6 @@ Proyectos y ejercicios académicos desarrollados durante mi formación en Ingeni
 - Listas y matrices.
 - Algoritmos de búsqueda y ordenamiento.
 - Resolución de problemas mediante algoritmos.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![Santino's GitHub stats](https://github-readme-stats.vercel.app/api?username=santinoprieto&show_icons=true&theme=tokyonight)
-
-</div>
 
 ---
 
