@@ -42,17 +42,18 @@
 
 ## 🚀 Proyectos
 
-### 🅿️ Park Direct
+### 🅿️ Sistema de Gestión de Estacionamientos
 
-Proyecto académico desarrollado en el marco de **Sistemas de Información I**.
+Proyecto académico desarrollado en **Python** para la materia **Programación 1**.
 
-Aplicación orientada a facilitar la búsqueda y reserva de espacios de estacionamiento.
+Sistema orientado a la gestión de clientes, vehículos, espacios, reservas, tarifas e ingresos de un estacionamiento.
 
 **Participación:**
-- 🎨 Diseño de interfaces y prototipos utilizando **Figma**.
-- 📱 Representación visual de los principales flujos y funcionalidades.
-- 📋 Participación en la definición de requerimientos del sistema.
-- 🔄 Aplicación de conceptos de metodologías ágiles y **Kanban**.
+- 🐍 Desarrollo del sistema utilizando **Python**.
+- ⚙️ Implementación de funciones, estructuras de datos y algoritmos.
+- 🅿️ Desarrollo de funcionalidades para la gestión de estacionamientos, reservas y vehículos.
+- 🔎 Implementación de búsquedas, validaciones y manejo de información.
+- 🐛 Pruebas, depuración y corrección de errores durante el desarrollo.
 
 ---
 
