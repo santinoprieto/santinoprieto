@@ -4,15 +4,6 @@
 
 ### 🎓 Estudiante de Ingeniería en Informática
 
-<p>
-  <a href="https://linkedin.com/in/santinoprieto">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:santino2007prieto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 </div>
 
 ---
@@ -80,9 +71,14 @@ Proyectos y ejercicios académicos desarrollados durante mi formación en Ingeni
 
 ## 📫 Contacto
 
-📧 **Email:** santino2007prieto@gmail.com  
-💼 **LinkedIn:** [Mi LinkedIn](TU_LINKEDIN)  
-💻 **GitHub:** [@santinoprieto](https://github.com/santinoprieto)
+<p>
+  <a href="https://linkedin.com/in/santinoprieto">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:santino2007prieto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
