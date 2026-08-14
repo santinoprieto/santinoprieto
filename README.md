@@ -10,9 +10,11 @@
 
 ## 👨‍💻 Sobre mí
 
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J4MmswZDdiY3lnNmd4NHpsMGhoOGE2d2lwZm94NnlxcHE3dGJkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" />
+
 🎓 Estudiante de primer año de **Ingeniería en Informática** en la **Universidad Argentina de la Empresa (UADE)**.
 
-💻 Actualmente estoy desarrollando mis conocimientos en **programación, algoritmos y desarrollo de software**, con especial interés en continuar creciendo dentro del sector tecnológico.
+💻 Actualmente estoy desarrollando mis conocimientos en **programación, algoritmos y desarrollo de software**, <br> con especial interés en continuar creciendo dentro del sector tecnológico.
 
 🌎 Inglés **B2**.
 
